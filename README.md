@@ -32,8 +32,10 @@ src="https://skillicons.dev/icons?i=gamemakerstudio,git,github,html,java,js&them
 </p>
 
 <h3 align="left">💌Support :</h3>
-<p></p>Now You Can Support Me And Appreciate My Work On BuyMeABook!!😊</p>
-<a href="https://www.buymeacoffee.com/durgaai.in"><img src="https://img.buymeacoffee.com/button-api/?text=Durgaai Solutions&emoji=🤖&slug=durgaai.in&button_colour=87a922&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<p></p>Now You Can Support Me And Appreciate My Work On BuyMeACoffe!!😊</p>
+<a href="https://www.buymeacoffee.com/durgaaisolutions"><img src="https://img.buymeacoffee.com/button-api/?text=Durgaai Solutions&emoji=🤖&slug=durgaaisolutions&button_colour=16a72e&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<a href='https://ko-fi.com/X8X61D06RW' target='_blank'><img height='52' style='border:20px;height:52px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='20' alt='Buy Me a Coffee At ko-fi.com' /></a>
+
 <h3 align="left">📊My Info :</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Anubhav1608&theme=darkhub)
